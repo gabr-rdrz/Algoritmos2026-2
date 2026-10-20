@@ -23,7 +23,7 @@ public class Exercicio06_Eleicao {
             int voto = entrada.nextInt();
             
             switch (voto) {
-                case 1 : voto1++; break;
+                case 1: voto1++; break;
                 case 2: voto2++; break;
                 case 3: voto3++; break;
                 case 4: voto4++; break;
