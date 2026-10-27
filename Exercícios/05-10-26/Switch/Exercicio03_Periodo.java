@@ -1,4 +1,4 @@
-// Nome: Gabriel Rodrigues Rufacho de Souza —— RA: 12526215077
+// Nome: Gabriel Rodrigues —— RA: 12526215077
  
 import java.util.Scanner;
 
