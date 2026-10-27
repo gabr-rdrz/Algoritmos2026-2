@@ -1,4 +1,4 @@
-// Nome: Gabriel Rodrigues Rufacho de Souza —— RA: 12526215077
+// Nome: Gabriel Rodrigues —— RA: 12526215077
 
 public class Exercicio02_Quadrados {
     public static void main (String[] args) {
